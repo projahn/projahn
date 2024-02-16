@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @projahn
+- 👋 Hi, I’m Nikolai :)
 - 👀 I’m interested in ... 
   -  Java
   -  Spring & Spring Boot framework
